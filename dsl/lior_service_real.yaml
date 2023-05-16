@@ -1,0 +1,13 @@
+lior_service_real:
+ artifactory_repo_name: 'asdasdasd'
+ artifact_file_name: 'franksadasdas' 
+ service_executable: 'ish'
+ config_file_name_template: 
+ config_file_name: 'sadasd'
+ CCM_URIS: 'asddasdasd'
+ CCM_USER_NAME: 'sadsadasdasd' 
+ CCM_PASSWORD: 
+ CCM_SERVICE_NAME: 
+ CCM_ENVIRONMENT: 
+ LOG4NET_CONFIG_FILE:
+ CCM_USER_NAME: 
