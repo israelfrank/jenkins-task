@@ -1,0 +1,12 @@
+tts_service_real:
+ artifactory_repo_name: 'http://ccandm.asdsa.asdasd'
+ artifact_file_name: 'tts.zip'
+ service_executable: 'tts.serviceHost'
+ config_file_name_template: 'tts.serviceHost.j2'
+ config_file_name: 'tts.serviceHost.config'
+ CCM_URIS: 'http://isr'
+ CCM_USER_NAME: 'isr'
+ CCM_PASSWORD: 'dsad'
+ CCM_SERVICE_NAME: 'tts_service_real'
+ CCM_ENVIRONMENT: 'QA'
+ LOG4NET_CONFIG_FILE: 'sad'
